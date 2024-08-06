@@ -5,3 +5,5 @@ function app() {
 function run() {
   app();
 }
+
+run();
