@@ -8,3 +8,4 @@ function run() {
 
 run();
 run();
+run();
